@@ -1,5 +1,9 @@
 # A worlde style game 
 ## Features:
+![image](https://github.com/erixnL/wordlegame/assets/96608889/e85c7980-bb71-4629-84d1-b6eb1d33ca86)
+
+![image](https://github.com/erixnL/wordlegame/assets/96608889/f75fd50d-9fff-412a-9637-dab155cd2d93)
+
 - Guess a five-letter word for the day.
 - In total, the player gets six rounds to guess a word.
 - If the player guesses a letter that is in the right place, it is shown as green.
