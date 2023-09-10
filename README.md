@@ -1,4 +1,4 @@
-# A worlde style game 
+# A wordle style game 
 ## Features:
 ![image](https://github.com/erixnL/wordlegame/assets/96608889/e85c7980-bb71-4629-84d1-b6eb1d33ca86)
 
